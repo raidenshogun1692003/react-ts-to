@@ -7,6 +7,7 @@ import {
     Spacer
 } from '@chakra-ui/react'
 import { SunIcon } from '@chakra-ui/icons'
+import React from 'react'
 import { PlusSquareIcon } from '@chakra-ui/icons'
 import { StarIcon } from '@chakra-ui/icons'
 import { CalendarIcon } from '@chakra-ui/icons'

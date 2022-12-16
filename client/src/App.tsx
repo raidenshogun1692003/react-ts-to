@@ -1,4 +1,5 @@
 import './styles/App.css'
+import React from 'react'
 import HomePage from './HomePage'
 import { Route, Routes } from "react-router-dom";
 import NoPage from './NoPage';

@@ -3,6 +3,7 @@ import {
     FormControl,
     FormLabel,
 } from '@chakra-ui/react'
+import React from 'react'
 import Navbar from './Navbar';
 import RightNav from './RightNav';
 
